@@ -1,4 +1,4 @@
-ProjetoFinalTilt
+TCC
 ================
 
-Projeto Final de Graduação.
+Projeto final de graduação contando a história dos primeiros meses da BitCake Studio.
